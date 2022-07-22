@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**burakozkirdeniz/burakozkirdeniz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I am working as a **Software Engineer and Product Manager** at *[Webrazzi](https://webrazzi.com)* and a **lifetime learner** about variety of topics like technology, philosophy and business.
 
-Here are some ideas to get you started:
+[My personal website](https://burakozkirdeniz.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Social Accounts :coffee:
+
+- [LinkedIn](https://linkedin.com/in/burakozkirdeniz)
+
+- [Twitter](https://twitter.com/burakozkirdeniz)
+
+- [Opensea](https://opensea.io/burakozkirdeniz)
+
+- [Youtube](https://www.youtube.com/burakozkirdeniz)
+
+🌱 I’m currently learning web3 development, react framework, some cloud/devops concepts
