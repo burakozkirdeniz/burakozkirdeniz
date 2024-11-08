@@ -10,10 +10,4 @@ I describe myselfy as a **lifetime learner** about variety of topics like techno
 
 - [LinkedIn](https://linkedin.com/in/burakozkirdeniz)
 
-- [Twitter](https://twitter.com/burakozkirdeniz)
-
-- [Opensea](https://opensea.io/burakozkirdeniz)
-
-- [Youtube](https://www.youtube.com/burakozkirdeniz)
-
-🌱 I’m currently learning web3 development, react framework, some cloud/devops concepts
+- [X](https://x.com/burakozkirdeniz)
