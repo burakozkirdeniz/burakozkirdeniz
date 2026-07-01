@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I describe myselfy as a **lifetime learner** about variety of topics like technology, philosophy and business.
+I describe myself as a **lifetime learner** about variety of topics like technology, philosophy and business.
 
 [My personal website](https://burakozkirdeniz.com)
 
